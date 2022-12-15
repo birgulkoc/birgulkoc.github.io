@@ -1,1 +1,0 @@
-# birgulkoc.github.io
