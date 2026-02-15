@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Birgul Koc",
+    "email": "bkoc@us.es",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://birgulkoc.github.io",
+    "summary": "Postdoctoral reseracher at University of Seville. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Seville, Spain",
       "countryCode": "US",
       "region": ""
     },
@@ -16,28 +16,28 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=-vRygfoAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-1733-4862"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "birgulkoc",
+        "url": "https://github.com/birgulkoc"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Seville",
+      "area": "Postdoctoral Resarcher",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2025",
+      "endDate": "2028",
       "gpa": null,
       "courses": []
     },
